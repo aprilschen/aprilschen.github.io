@@ -1,5 +1,5 @@
 current directory: /Users/aprilschen/github/personal/personal/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.23.10/ext/commonmarker
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20240109-92913-15461w2.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20240109-3359-gwtd64.rb extconf.rb
 creating Makefile
 
 current directory: /Users/aprilschen/github/personal/personal/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.23.10/ext/commonmarker

@@ -1,0 +1,16 @@
+current directory: /Users/aprilschen/github/personal/personal/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+/Users/aprilschen/.rbenv/versions/3.1.4/bin/ruby -I /Users/aprilschen/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/aprilschen/github/personal/personal/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240109-42383-mpyh2q sitelibdir\=./.gem.20240109-42383-mpyh2q clean
+
+current directory: /Users/aprilschen/github/personal/personal/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240109-42383-mpyh2q sitelibdir\=./.gem.20240109-42383-mpyh2q
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/aprilschen/github/personal/personal/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240109-42383-mpyh2q sitelibdir\=./.gem.20240109-42383-mpyh2q install
+/opt/homebrew/bin/ginstall -c -m 0755 unf_ext.bundle ./.gem.20240109-42383-mpyh2q
