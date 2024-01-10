@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I'm Shiwei, a 2nd-year Mathematics & Computer Science major at De Anza College. Presently, I am a software engineering intern at Heimdall Data, where I work on caching and querying processes within the Heimdall proxy.
+Hey there! I'm Shiwei, a 2nd-year Mathematics & Computer Science major at De Anza College. Presently, I am a software engineering intern at [Heimdall Data](https://www.heimdalldata.com/), where I work on caching and querying processes within the Heimdall proxy.
 
 My main interests are broadly in applied mathematics, specifically machine learning, and scientific computing. My curiosity led me to apply for visiting student status at UC Berkeley and San Francisco State, where I am currently taking graduate and upper-division coursework in theoretical statistics.
 
