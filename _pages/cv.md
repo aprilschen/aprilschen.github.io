@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* A.S. in Mathematics and Computer Science, De Anza College, 2024
+* B.S. in Mathematics, University of California, 2025 (expected)
+* M.S in Computer Science, 2027 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2023: Software Engineering Intern
+  * Heimdall Data
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Erik Brandsberg
 
-* Fall 2015: Research Assistant
-  * Github University
+* Spring 2023: Contract Software Engineer
+  * ZoneUp LLC
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Supervisor: Victor Ouyang
 
-Publications
+Freelancing
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* Spring 2023: Software Developer
+  * Good Work Hub
+  * Duties included: Tagging issues
+  * Supervisor: Athena Su
+
+* Winter 2023: Open Source Contributor
+  * Django Software Foundation
+  * Duties included: Merging pull requests
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
