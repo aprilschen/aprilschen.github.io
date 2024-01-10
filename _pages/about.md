@@ -14,7 +14,7 @@ My main interests are broadly in applied mathematics, specifically machine learn
 
 In the past, I coached high school students for the USA Computing Olympiad (USACO) helping them promote to the Silver and Gold divisions. I also taught coursework in AP Computer Science, and was a teaching assistant for my high school's introductory computer science classes before I left in grade 10 to attend community college.
 
-Aside from academics, I play piano, [cosplay](), and walk [my dogs]() for fun. I also enjoy listening to [J-rock](https://www.youtube.com/channel/UCAdBU-8zvj-W6T5hzwg3VrA), and drinking homemade matcha. If you're equally interested in any of the above, let's chat! My email is [aprilschen6@gmail.com](mailto:aprilschen6@gmail.com).
+Aside from academics, I play [piano](https://www.youtube.com/channel/UCAdBU-8zvj-W6T5hzwg3VrA), [cosplay](), and walk [my dogs]() for fun. I also enjoy listening to [J-rock](https://www.youtube.com/playlist?list=PLnsZ9UjamIkTBK26_Nt_6wurpP1opkfr2), and drinking homemade matcha. If you're equally interested in any of the above, let's chat! My email is [aprilschen6@gmail.com](mailto:aprilschen6@gmail.com).
 
 You can find various things that I work on around my website. Below are my coursework and some course notes I've taken, as well as links to projects and other miscellaneous fun things I've made over the years. Some pointers to things I think you'll find interesting:
 
@@ -26,9 +26,7 @@ You can find various things that I work on around my website. Below are my cours
 
 Coursework
 ======
-Here's an abridged summary of the classes I have taken.
-
-I had to move twice during community college, which led me to take classes from multiple institutions. [You can find a map of all the places I studied here](https://academicpages.github.io/talkmap.html). I've also recorded the college where I took each course below.
+Below is an abridged summary of the classes I have taken. I had to move twice during community college, which led me to take classes from multiple institutions. [You can find a map of all the places I studied here](https://academicpages.github.io/talkmap.html). I've also recorded the college where I took each course below.
 
 
 ### Spring 2024
@@ -57,6 +55,6 @@ I had to move twice during community college, which led me to take classes from 
  - Math 1A: Calculus (De Anza)
 
 
-#### Acknowledgements
-1. [Tyler Zhu]() for website structure
-1. [Academicpages]() for website template
+### Acknowledgements
+1. [Tyler Zhu](https://tylerzhu.com/) for website structure
+1. [Academicpages](https://github.com/academicpages/academicpages.github.io) for website template
