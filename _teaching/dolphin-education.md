@@ -8,4 +8,4 @@ date: 2022-06-06
 location:
 ---
 
-Taught coursework in AP Computer Science, and introductory classes in Java, C++, and Python. Company benefits included cute drinks, and occasionally, dominos pizza.
+Taught coursework in AP Computer Science, and introductory classes in Java, C++, and Python. Company benefits included fizzy drinks, and occasionally, dominos pizza.

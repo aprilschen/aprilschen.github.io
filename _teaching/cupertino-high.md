@@ -8,4 +8,4 @@ date: 2022-08-16
 location:
 ---
 
-Teaching Assistant for the Computer Science department at Cupertino High School. Graded assignments, quizzes, midterms and finals, and ate creamy bagels during breaks!  ⸜(｡˃ ᵕ ˂ )⸝♡
+Teaching Assistant for the Computer Science department at Cupertino High School. Graded assignments, quizzes, midterms and finals, and worked with department head to tutor students in class.

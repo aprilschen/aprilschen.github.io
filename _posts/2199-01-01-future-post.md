@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-Study Abroad in Asia while simultaneously doing a Master's degree and working full time? Sounds like a good idea.
+Placeholder text - やっぱり雨は降るんだね
