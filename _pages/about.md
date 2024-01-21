@@ -34,6 +34,9 @@ Below is an abridged summary of the classes I have taken. I had to move twice du
  - Math 130: Linear Algebra and Differential Equations (CCSF)
  - Math 3C: Calculus III (Laney)
 
+### Winter Intersession 2024
+ - Math 470: Real Analysis II (SFSU) - Self studied and took final exam to fulfill Math 710 prerequisites.
+
 ### Fall 2023
  - Math 370: Real Analysis I (SFSU)
  - Math 1C: Calculus (De Anza)
