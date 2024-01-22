@@ -14,7 +14,7 @@ My main interests are broadly in applied mathematics, specifically machine learn
 
 In the past, I coached high school students for the USA Computing Olympiad (USACO) helping them promote to the Silver and Gold divisions. I also taught coursework in AP Computer Science, and was a teaching assistant for my high school's computer science department before I left in grade 10 to attend community college.
 
-Aside from academics, I play [piano](https://www.youtube.com/channel/UCAdBU-8zvj-W6T5hzwg3VrA), [cosplay](https://www.youtube.com/watch?v=dQw4w9WgXcQ), and walk [my dogs](https://www.instagram.com/inothedoggo/) for fun. I also enjoy listening to [J-rock](https://www.youtube.com/playlist?list=PLnsZ9UjamIkTBK26_Nt_6wurpP1opkfr2), playing MapleStory, and drinking homemade matcha. If you're equally interested in any of the above, let's chat! My email is [aprilschen6@gmail.com](mailto:aprilschen6@gmail.com).
+Aside from academics, I play [piano](https://www.youtube.com/channel/UCAdBU-8zvj-W6T5hzwg3VrA), [cosplay](https://www.youtube.com/watch?v=dQw4w9WgXcQ), and walk [my dogs](https://www.instagram.com/inothedoggo/) for fun. I also enjoy listening to [J-rock](https://www.youtube.com/playlist?list=PLnsZ9UjamIkTBK26_Nt_6wurpP1opkfr2), playing MapleStory, and drinking homemade matcha. If you're equally interested in any of the above, let's chat! My email is [aprilschen@berkeley.edu](mailto:aprilschen@berkeley.edu).
 
 You can find various things that I work on around my website. Below are my coursework and some course notes I've taken, as well as links to projects and other miscellaneous fun things I've made over the years. Some pointers to things I think you'll find interesting:
 
