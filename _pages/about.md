@@ -25,7 +25,7 @@ You can find various things that I work on around my website. Below are my cours
 
 Coursework
 ======
-Below is an abridged summary of the classes I have taken. I had to move twice, which led me to take classes from multiple community colleges. I've recorded the institution where I took each course below.
+Below is an abridged summary of the classes I have taken. I had to move twice during my studies, which led me to take classes from multiple community colleges. I've recorded the institution where I took each course below.
 
 
 ### Spring 2024 (In Progress)
