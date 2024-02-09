@@ -10,11 +10,11 @@ redirect_from:
 
 Hey there! I'm Shiwei, a 2nd-year Mathematics & Computer Science major at De Anza College. Presently, I am a software engineering intern at [Heimdall Data](https://www.heimdalldata.com/), where I work on caching and querying processes within the Heimdall proxy.
 
-My main interests are broadly in applied mathematics, specifically machine learning, and scientific computing. My curiosity led me to apply for visiting student status at UC Berkeley and San Francisco State, where I am currently taking graduate and upper-division coursework in theoretical statistics.
+My main interests are broadly in applied mathematics, specifically machine learning. My curiosity led me to apply for visiting student status at UC Berkeley and San Francisco State, where I am currently taking graduate and upper-division coursework.
 
 In the past, I coached high school students for the USA Computing Olympiad (USACO) helping them promote to the Silver and Gold divisions. I also taught coursework in AP Computer Science, and was a teaching assistant for my high school's computer science department before I left in grade 10 to attend community college.
 
-Aside from academics, I play [piano](https://www.youtube.com/channel/UCAdBU-8zvj-W6T5hzwg3VrA), [cosplay](https://www.youtube.com/watch?v=dQw4w9WgXcQ), and walk [my dogs](https://www.instagram.com/inothedoggo/) for fun. I also enjoy listening to [J-rock](https://www.youtube.com/playlist?list=PLnsZ9UjamIkTBK26_Nt_6wurpP1opkfr2), playing MapleStory, and drinking homemade matcha. If you're equally interested in any of the above, let's chat! My email is [aprilschen@berkeley.edu](mailto:aprilschen@berkeley.edu).
+Aside from academics, I play piano, cosplay, and walk my pet Shibas for fun. I also enjoy performing anime and japanese music with [The Intermission Orchestra](https://www.instagram.com/intermissionberkeley/) and [Nikkei Choral Ensemble](https://niceacappella.berkeley.edu/) at UC Berkeley. If you're equally interested in any of the above, let's chat! My email is [aprilschen@berkeley.edu](mailto:aprilschen@berkeley.edu).
 
 You can find various things that I work on around my website. Below are my coursework and some course notes I've taken, as well as links to projects and other miscellaneous fun things I've made over the years. Some pointers to things I think you'll find interesting:
 
@@ -25,7 +25,7 @@ You can find various things that I work on around my website. Below are my cours
 
 Coursework
 ======
-Below is an abridged summary of the classes I have taken. I had to move twice during college, which led me to take classes from multiple institutions. [You can find a map of all the places I studied here](https://www.google.com/maps/d/u/0/edit?mid=1K0NMvEEmINhwXccseOiFNXS8M_5wTiM&usp=sharing). I've also recorded the college where I took each course below.
+Below is an abridged summary of the classes I have taken. I had to move twice, which led me to take classes from multiple community colleges. I've recorded the institution where I took each course below.
 
 
 ### Spring 2024 (In Progress)
@@ -35,7 +35,7 @@ Below is an abridged summary of the classes I have taken. I had to move twice du
  - Math 3C: Calculus III (Laney)
 
 ### Winter Intersession 2024
- - Math 470: Real Analysis II (SFSU) - Self studied and took final exam to fulfill Math 710 prerequisites.
+ - Math 470: Real Analysis II (SFSU)*
 
 ### Fall 2023
  - Math 370: Real Analysis I (SFSU)
@@ -54,3 +54,5 @@ Below is an abridged summary of the classes I have taken. I had to move twice du
 
 ### Winter 2023
  - Math 1A: Calculus (De Anza)
+
+<small>*Took final exam to fulfill Math 710 prerequisites.</small>
