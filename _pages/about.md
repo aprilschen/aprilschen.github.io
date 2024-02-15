@@ -27,13 +27,13 @@ Coursework
 Below is an abridged summary of the classes I have taken. I had to move twice during my studies, which led me to take classes from multiple community colleges. I've recorded the institution where I took each course below.
 
 
-### Spring 2024 (In Progress)
+### Spring 2024
  - Math 710: Measure Theory and Integration (SFSU)^
  - Math H185: Honors Introduction to Complex Analysis (Berkeley)
  - Math 130: Linear Algebra and Differential Equations (CCSF)
  - Math 3C: Calculus III (Laney)
 
-### Winter Intersession 2024
+### Winter 2024
  - Math 470: Real Analysis II (SFSU)^*
 
 ### Fall 2023
