@@ -28,24 +28,24 @@ Below is an abridged summary of the classes I have taken. I had to move twice du
 
 
 ### Spring 2024 (In Progress)
+ - Math 710: Measure and Integration (SFSU)^
  - Math H185: Honors Introduction to Complex Analysis (Berkeley)
- - Math 710: Measure and Integration (SFSU)
  - Math 130: Linear Algebra and Differential Equations (CCSF)
  - Math 3C: Calculus III (Laney)
 
 ### Winter Intersession 2024
- - Math 470: Real Analysis II (SFSU)*
+ - Math 470: Real Analysis II (SFSU)^*
 
 ### Fall 2023
  - Math 370: Real Analysis I (SFSU)
- - Math 1C: Calculus (De Anza)
- - Phyc 4A: Classical Mechanics for Scientists and Engineers (CCSF)
  - Stat 320: Introduction to Probability Theory I (CSU East Bay)
+ - Phyc 4A: Classical Mechanics for Scientists and Engineers (CCSF)
+ - Math 1C: Calculus (De Anza)
 
 ### Summer 2023
  - Math 22: Discrete Mathematics (De Anza)
- - Math 1B: Calculus (De Anza)
  - CIS 21JA: Introduction to x86 Processor Assembly Language and Architecture (De Anza)
+ - Math 1B: Calculus (De Anza)
 
 ### Spring 2023
  - CIS 22C: Data Abstraction and Structures (De Anza)
@@ -54,4 +54,7 @@ Below is an abridged summary of the classes I have taken. I had to move twice du
 ### Winter 2023
  - Math 1A: Calculus (De Anza)
 
-<small>*Took final exam to fulfill Math 710 prerequisites.</small>
+<small>
+^Graduate level class. <br/>
+*Took final exam to fulfill Math 710 prerequisites.
+</small>
