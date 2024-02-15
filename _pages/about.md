@@ -31,14 +31,14 @@ Below is an abridged summary of the classes I have taken. I had to move twice du
  - Math 710: Measure Theory and Integration (SFSU)^
  - Math H185: Honors Introduction to Complex Analysis (Berkeley)
  - Math 130: Linear Algebra and Differential Equations (CCSF)
- - Math 3C: Calculus III (Laney)
+ - Math 3C: Multivariable Calculus (Laney)
 
 ### Winter 2024
- - Math 470: Real Analysis II (SFSU)^*
+ - Math 470: Second Course in Real Analysis (SFSU)^*
 
 ### Fall 2023
- - Math 370: Real Analysis I (SFSU)
- - Stat 320: Introduction to Probability Theory I (CSU East Bay)
+ - Math 370: Introduction to Real Analysis (SFSU)
+ - Stat 320: Introduction to Probability Theory (CSU East Bay)
  - Phyc 4A: Classical Mechanics for Scientists and Engineers (CCSF)
  - Math 1C: Calculus (De Anza)
 
