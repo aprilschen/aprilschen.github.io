@@ -45,7 +45,7 @@ Below is an abridged summary of the classes I have taken. I had to move twice du
 ### Summer 2023
  - Math 22: Discrete Mathematics (De Anza)
  - CIS 21JA: x86 Assembly Language and Architecture (De Anza)
- - Math 1B: Calculus (De Anza)
+ - Math 1B:  Calculus (De Anza)
 
 ### Spring 2023
  - CIS 22C: Data Abstraction and Structures (De Anza)
