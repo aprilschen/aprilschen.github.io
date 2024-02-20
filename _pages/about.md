@@ -30,7 +30,7 @@ Below is an abridged summary of the classes I have taken. I had to move twice du
 ### Spring 2024
  - Math 710: Measure Theory and Integration (SFSU)^
  - Math H185: Honors Introduction to Complex Analysis (Berkeley)
- - Math 130: Linear Algebra and Differential Equations (CCSF)
+ - Math H130: Honors Linear Algebra and Differential Equations (CCSF)
  - Math 3C: Multivariable Calculus (Laney)
 
 ### Winter 2024
