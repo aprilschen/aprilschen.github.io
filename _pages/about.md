@@ -18,7 +18,7 @@ You can find various things that I work on around my website. Below are my cours
  - My professional information, being my [teaching](/teaching) and my [resume](/files/resume.pdf).
  - My [repository](https://github.com/aprilschen) of viewable personal projects
  - My [honors project](/files/LoRA_LinAlg.pdf) on Low-Rank Adaptation for my Linear Algebra class
- - My paper on [Measure-Theoretical Probability and Brownian Motion](/files/Math710final.pdf) for Math 710.
+ - My paper on [Probability and Brownian Motion](/files/Math710final.pdf) for my Measure Theory class.
  - My [blog](/year-archive), where I talk about topics important to me.
 
 Coursework
