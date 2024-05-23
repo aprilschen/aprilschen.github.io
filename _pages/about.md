@@ -7,17 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I'm Shiwei, a senior math major at UC Berkeley. Previously, I was a software engineering intern at [Heimdall Data](https://www.heimdalldata.com/), where I worked on caching and querying processes within the Heimdall proxy.
+Hey there! I'm Shiwei, a senior math major at UC Berkeley. Previously, I was a software engineering intern at [Heimdall Data](https://www.heimdalldata.com/), where I worked on caching and querying processes within the Heimdall proxy. My main interests are broadly in applied mathematics, specifically machine learning. 
 
-My main interests are broadly in applied mathematics, specifically machine learning. In the past, I coached high school students for the USA Computing Olympiad (USACO) helping them promote to the Silver and Gold divisions. I also taught coursework in AP Computer Science, and was a teaching assistant for my high school's computer science department before I left in grade 10 to attend community college.
-
-Aside from academics, I play piano, arrange music, and walk my pet Shibas for fun. I also enjoy performing music with [The Intermission Orchestra](https://www.instagram.com/intermissionberkeley/) at UC Berkeley. If you're equally interested in any of the above, let's chat! My email is [aprilschen@berkeley.edu](mailto:aprilschen@berkeley.edu).
+In the past, I've coached high school students for the USA Computing Olympiad (USACO) helping them promote to the Silver and Gold divisions. Aside from academics, I play piano, arrange music, and walk my pet Shibas for fun. I also enjoy performing music with [The Intermission Orchestra](https://www.instagram.com/intermissionberkeley/) at UC Berkeley. If you're equally interested in any of the above, let's chat! My email is [aprilschen@berkeley.edu](mailto:aprilschen@berkeley.edu).
 
 You can find various things that I work on around my website. Below are my coursework and some course notes I've taken, as well as links to projects and other miscellaneous fun things I've made over the years. Some pointers to things I think you'll find interesting:
 
  - My professional information, being my [teaching](/teaching) and my [resume](/files/resume.pdf).
  - My [repository](https://github.com/aprilschen) of viewable personal projects
- - My [honors project](/files/LoRA_LinAlg.pdf) on Low-Rank Adaptation for my Linear Algebra class
+ - My [project](/files/LoRA_LinAlg.pdf) on Low-Rank Adaptation for my Linear Algebra class
  - My paper on [Probability and Brownian Motion](/files/Math710final.pdf) for my Measure Theory class.
  - My [blog](/year-archive), where I talk about topics important to me.
 
