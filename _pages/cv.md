@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* A.S. in Mathematics and Computer Science, De Anza College, 2024
-* B.S. in Mathematics, University of California, 2025 (expected)
-* M.S in Computer Science, 2027 (expected)
+* A.S. in Mathematics, De Anza College, 2024
+* B.S. in Mathematics, University of California, Berkeley 2025 (exp)
+* M.S in Computer Science, 2027 (exp)
 
 Work experience
 ======
