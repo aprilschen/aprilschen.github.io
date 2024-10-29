@@ -11,32 +11,27 @@ redirect_from:
 
 Education
 ======
-* A.S. in Mathematics, De Anza College, 2024
-* B.S. in Mathematics, University of California, Berkeley 2025 (expected)
-* M.S in Computer Science, 2027 (expected)
+B.A. in Mathematics, University of California, Berkeley - 2024
+
+M.S in Computer Science, Georgia Institute of Technology - 2026
 
 Work experience
 ======
-* Summer 2023: Software Engineering Intern
-  * Heimdall Data
-  * Duties included: Tagging issues
-  * Supervisor: Erik Brandsberg
+Spring 2025: Software Engineer
+* Uncountable Inc
+* Supervisor: Jason Hirshman
 
-* Spring 2023: Contract Software Engineer
-  * ZoneUp LLC
-  * Duties included: Merging pull requests
-  * Supervisor: Victor Ouyang
+Spring 2024: Software Engineering Intern
+* Heimdall Data
+* Supervisor: Erik Brandsberg
 
-Freelancing
-======
-* Spring 2023: Software Developer
-  * Good Work Hub
-  * Duties included: Tagging issues
-  * Supervisor: Athena Su
+Summer 2023: Contract Software Engineer
+* ZoneUp LLC
+* Supervisor: Victor Ouyang
 
-* Winter 2023: Open Source Contributor
-  * Django Software Foundation
-  * Duties included: Merging pull requests
+Spring 2023: Software Developer
+* Good Work Hub
+* Supervisor: Athena Su
 
 Teaching
 ======
