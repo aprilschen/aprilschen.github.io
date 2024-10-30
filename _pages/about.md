@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I'm Shiwei, an incoming Software Engineer at [Uncountable](https://www.uncountable.com/) and 1st-year MS in Computer Science at Georgia Tech. My main interests are broadly in machine learning and computational sciences, which was the focus of my undergrad at Berkeley.
+Hey there! I'm Shiwei, an incoming Software Engineer at [Uncountable](https://www.uncountable.com/) and 1st-year MS in Computer Science at Georgia Tech. My interests are broadly in machine learning and computational sciences, which was the focus of my undergrad at Berkeley.
 
 I'm passionate about developing meaningful software and delivering value to others. This interest led me to begin my undergraduate studies at 16 and graduate from Berkeley at 18, becoming one of the youngest-ever graduate students in the College of Computing at Georgia Tech. I am also heavily involved in the competitive programming community, having spent the last three years coaching students for the Silver and Gold divisions of the USA Computing Olympiad. 
 

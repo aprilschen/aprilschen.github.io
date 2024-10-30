@@ -17,24 +17,14 @@ M.S in Computer Science, Georgia Institute of Technology - 2026
 
 Work experience
 ======
-Spring 2025: Software Engineer
-* Uncountable Inc
+Spring 2025: Software Engineer - Uncountable Inc
 * Supervisor: Jason Hirshman
 
-Spring 2024: Software Engineering Intern
-* Heimdall Data
+Spring 2024: Software Engineering Intern - Heimdall Data
 * Supervisor: Erik Brandsberg
 
-Summer 2023: Contract Software Engineer
-* ZoneUp LLC
+Summer 2023: Contract Software Engineer - ZoneUp LLC
 * Supervisor: Victor Ouyang
 
-Spring 2023: Software Developer
-* Good Work Hub
+Spring 2023: Freelance Software Developer - Good Work Hub
 * Supervisor: Athena Su
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
