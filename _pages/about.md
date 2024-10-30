@@ -13,7 +13,7 @@ I'm passionate about developing meaningful software and delivering value to othe
 
 Aside from academics, I play piano, arrange music, and walk my pet Shibas for fun. I also enjoy performing music with The Intermission Orchestra at UC Berkeley. If you're equally interested in any of the above, let's chat! My email is [aprilschen@berkeley.edu](mailto:aprilschen@berkeley.edu).
 
-You can find various things that I work on around my website. Below are my coursework and some course notes I've taken, as well as links to projects and other miscellaneous fun things I've made over the years. There's also my personal [blog](/year-archive), which I'll start writing in... one day. Here are some pointers to things I think you'll find interesting:
+You can find various things that I work on around my website. Below are my coursework and some course notes I've taken, as well as links to projects and other miscellaneous fun things I've made over the years. There's also my personal [blog](/year-archive), which I've recently started writing in. Here are some pointers to things I think you'll find interesting:
 
  - My professional information, being my [teaching](/teaching) and my [resume](/files/shiwei_chen_resume.pdf).
  - My [repository](https://github.com/aprilschen) of viewable personal projects.
