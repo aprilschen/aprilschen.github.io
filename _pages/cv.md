@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-B.A. in Mathematics, University of California, Berkeley - 2024
+B.A in Applied Mathematics, University of California, Berkeley - 2024
 
 M.S in Computer Science, Georgia Institute of Technology - 2026
 
