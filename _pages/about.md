@@ -11,7 +11,7 @@ Hey there! I'm Shiwei, an incoming Software Engineer at [Uncountable](https://ww
 
 I'm passionate about developing meaningful software and delivering value to others. This interest led me to begin my undergraduate studies at 16 and graduate from Berkeley at 18, becoming one of the youngest-ever graduate students in the College of Computing at Georgia Tech. I am also heavily involved in the competitive programming community, having spent the last three years coaching students for the Silver and Gold divisions of the USA Computing Olympiad. 
 
-Aside from academics, I play piano, arrange music, and walk my pet Shibas for fun. I also enjoy performing music with The Intermission Orchestra at UC Berkeley. If you're equally interested in any of the above, let's chat! My email is [aprilschen@berkeley.edu](mailto:aprilschen@berkeley.edu).
+Aside from academics, I play piano, arrange music, and walk my pet Shibas for fun. I also enjoy performing music with The Intermission Orchestra at UC Berkeley. If you're equally interested in any of the above, let's chat! My email is [aprilschen@gatech.edu](mailto:aprilschen@gatech.edu).
 
 You can find various things that I work on around my website. Below are my coursework and professional information, as well as links to projects and other miscellaneous fun things I've made over the years. There's also my personal [blog](/year-archive), which I've recently started writing in. Here are some pointers to things I think you'll find interesting:
 
@@ -22,17 +22,18 @@ You can find various things that I work on around my website. Below are my cours
 
 
 ## Coursework:
- - Math 228A: Numerical Methods for ODEs (Graduate)
- - Math 221: Advanced Matrix Computations (Graduate)
- - Math 710: Measure and Integration Theory (Graduate)
- - Math H185: Honors Complex Analysis
- - Math 128A: Numerical Analysis
- - Math 113: Abstract Algebra
- - Math 110: Abstract Linear Algebra
- - IEOR 172: Probability Theory
- - Stat 198: Data Visualization
- - Math 55: Discrete Mathematics
- - Math 54: Linear Algebra and Differential Equations
- - Math 53: Multivariable Calculus
- - CS 61C: Machine Structures
- - CS 61B: Data Structures
+- Math 228A | Numerical Methods for ODEs (Graduate)
+- Math 221 | Advanced Matrix Computations (Graduate)
+- Math 710 | Measure and Integration Theory (Graduate)
+- Math H185 | Honors Complex Analysis
+- Math 128A | Numerical Analysis
+- Math 113 | Abstract Algebra
+- Math 110 | Abstract Linear Algebra
+- Math 104 | Real Analysis
+- IEOR 172 | Probability Theory
+- Stat 198 | Data Visualization
+- Math 55 | Discrete Mathematics
+- Math 54 | Linear Algebra and Differential Equations
+- Math 53 | Multivariable Calculus
+- CS 61C | Machine Structures
+- CS 61B | Data Structures
