@@ -22,18 +22,18 @@ You can find various things that I work on around my website. Below are my cours
 
 
 ## Coursework:
-- Math 228A | Numerical Methods for ODEs (Graduate)
-- Math 221 | Advanced Matrix Computations (Graduate)
-- Math 710 | Measure and Integration Theory (Graduate)
-- Math H185 | Honors Complex Analysis
-- Math 128A | Numerical Analysis
-- Math 113 | Abstract Algebra
-- Math 110 | Abstract Linear Algebra
-- Math 104 | Real Analysis
-- IEOR 172 | Probability Theory
-- Stat 198 | Data Visualization
-- Math 55 | Discrete Mathematics
-- Math 54 | Linear Algebra and Differential Equations
-- Math 53 | Multivariable Calculus
-- CS 61C | Machine Structures
-- CS 61B | Data Structures
+ - Math 228A | Numerical Methods for ODEs (Graduate)
+ - Math 221 | Advanced Matrix Computations (Graduate)
+ - Math 710 | Measure and Integration Theory (Graduate)
+ - Math H185 | Honors Complex Analysis
+ - Math 128A | Numerical Analysis
+ - Math 113 | Abstract Algebra
+ - Math 110 | Abstract Linear Algebra
+ - Math 104 | Real Analysis
+ - IEOR 172 | Probability Theory
+ - Stat 198 | Data Visualization
+ - Math 55 | Discrete Mathematics
+ - Math 54 | Linear Algebra and Differential Equations
+ - Math 53 | Multivariable Calculus
+ - CS 61C | Machine Structures
+ - CS 61B | Data Structures
