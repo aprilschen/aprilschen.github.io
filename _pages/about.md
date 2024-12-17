@@ -17,22 +17,19 @@ You can find various things that I work on around my website. Below are my cours
 
  - My professional information, being my [teaching](/teaching) and my [resume](/files/shiwei_chen_resume.pdf).
  - My [repository](https://github.com/aprilschen) of viewable personal projects.
- - My [project](/files/LoRA_LinAlg.pdf) on Low-Rank Adaptation for my Linear Algebra class.
+ - My [survey paper](/files/LLM_Compression.pdf) on LLM Compression methods for my Numerical Linear Algebra class.
  - My [paper](/files/Math710final.pdf) on Probability and Brownian Motion for my Measure Theory class.
 
 
-## Coursework:
+## Selected Coursework:
  - Math 228A: Numerical Methods for ODEs (Graduate)
  - Math 221: Advanced Matrix Computations (Graduate)
  - Math 710: Measure and Integration Theory (Graduate)
  - Math H185: Honors Complex Analysis
  - Math 128A: Numerical Analysis
- - Math 113: Abstract Algebra
  - Math 110: Abstract Linear Algebra
- - Math 104: Real Analysis
  - IEOR 172: Probability Theory
  - Stat 198: Data Visualization
- - Math 55: Discrete Mathematics
  - Math 54: Linear Algebra and Differential Equations
  - Math 53: Multivariable Calculus
  - CS 61C: Machine Structures
